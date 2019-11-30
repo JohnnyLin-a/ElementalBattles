@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "UbuntuNative",
+            "includePath": [
+                "/usr/opt/eosio.cdt/1.6.3/include/**",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang++-6.0",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
